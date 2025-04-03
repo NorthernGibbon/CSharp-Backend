@@ -1,0 +1,6 @@
+@JacobCorp_HostAddress = http://localhost:8383
+
+GET {{JacobCorp_HostAddress}}//
+Accept: application/json
+
+###
